@@ -1,2 +1,6 @@
 hello
 welcome
+I 
+go t
+the 
+text file
