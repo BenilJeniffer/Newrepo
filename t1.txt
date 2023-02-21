@@ -1,6 +1,7 @@
 hello
 welcome
-wow
-this
-is s
-sample text
+I 
+go t
+the 
+text file
+
